@@ -77,6 +77,10 @@ export class DataService {
     return this.messages;
   }
 
+  public getMessageCount(): number {
+    return this.messages.length;
+  }
+
   public getMessageById(id: number): Message {
     return this.messages[id];
   }

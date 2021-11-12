@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871741958118",
+    "project_id": "ionic-geofencing-notification",
+    "storage_bucket": "ionic-geofencing-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871741958118:android:b9b35d4efde0e0f3ce1827",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871741958118-jjtb67auf9iev9l8uo0t7rhn9n531b8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx6pREn00SpaVlfKl7ZC8j3v_F09yOjfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871741958118-jjtb67auf9iev9l8uo0t7rhn9n531b8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
